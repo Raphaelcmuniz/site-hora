@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(0, 81, 255);
+        font: normal 18pt Artial;
+
+}
+header{
+    color: aliceblue;
+    text-align: center;
+
+}
+section{
+    background-color: aliceblue;
+    border-radius: 15px;    /*arredonda as bordas*/
+    padding: 15px;          /*distância entre o conteúdo e suas bordas*/
+    width: 500px;           /* Largura */
+    margin: auto;           /*centraliza na página*/
+    box-shadow: rgba(0, 0, 0, 0.616) 5px 5px 10px ; /*sombra no bloco*/
+
+}
+div{
+    text-align: center;
+    padding: 4px;
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+
+}
